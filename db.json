@@ -58,9 +58,9 @@
 ]
   ],
   "categories": [
-    { "userId": 1, "id": 1, "name": "Computer Programming" },
-    { "userId": 1, "id": 2, "name": "Cooking" },
-    { "userId": 1, "id": 3, "name": "Entertainment" }
+    { "userId": 1, "id": 1, "name": "Leaders Books" },
+    { "userId": 1, "id": 2, "name": "Novel Books" },
+    { "userId": 1, "id": 3, "name": "Science Fiction Books" }
   ],
   "bookmarks": [
     { "userId": 1, "id": 1, "title": "The C++ Programming Language", "ratings": 3, "author": "Bjarne Stroustrup", "publisher": "Addison-Wesley, 2000", "image": "https://images-na.ssl-images-amazon.com/images/I/51hH6DAw87L._SX370_BO1,204,203,200_.jpg" },
